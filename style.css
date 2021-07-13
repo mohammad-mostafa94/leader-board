@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+ul,
+li {
+    list-style: none;
+    display: flex;
+    background-color: blue;
+    justify-content: space-between;
+    margin-top: 0;
+}
